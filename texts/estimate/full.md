@@ -1,6 +1,6 @@
 
 
-## PSU and PRC Mandate
+# PSU and PRC Mandate
 
 Portland State University was called upon by the Oregon Legislature to produce the annual estimates under (ORS 190.510 to 190.620), and Oregon Administrative Rule 577-050-0005. These estimates help decision-makers and planners in many sectors: health, education, infrastructure, and housing, and they are used to distribute the State's revenues.
 

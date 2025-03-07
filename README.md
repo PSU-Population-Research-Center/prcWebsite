@@ -8,12 +8,14 @@ This repo is created mainly to share design and gather content for the new websi
 1. [Current Templates](./pngs/)
 2. [Content for Pages](./texts/)
 
-## Site Map
+## Site Map (Preview with Text Editor)
 
 The following is the structure of the new website. Please note that the hierarchy is limited to 2 or 3 levels. However, most pages can be accessed from any other page and are not restricted to the route suggested by the hierarchy.
 
+``` TXT
+
 Home/
-│── Programs/
+├── Programs/
 │   ├── Forecast/
 │   │   ├── MainPage
 │   │   ├── Method
@@ -24,9 +26,9 @@ Home/
 │   │   ├── MainPage
 │   ├── StateData/
 │   │   ├── MainPage
-        ├── DetailPage
+│   │   ├── DetailPage
 │
-│── Projects/
+├── Projects/
 │   ├── Grant-Funded/
 │   │   ├── ListingPage
 │   │   ├── ProjectPage
@@ -37,7 +39,7 @@ Home/
 │   │   ├── ListingPage
 │   │   ├── ProjectPage
 │
-│── AboutUs/
+├── AboutUs/
 │   ├── PRC_Mission
 │   ├── EventNewsList/
 │   │   ├── DetailPage
@@ -47,11 +49,12 @@ Home/
 │   ├── ArticlesBlog/
 │   │   ├── DetailPage
 │
-│── Contact
+├── Contact
 │
-│── ResourcesLink/
+├── ResourcesLink/
 │   ├── DownloadData
 │   ├── JobOpportunities
 │   ├── StateDataCenterAffiliates
 │   ├── DatasourceLinks
 
+``` TXT

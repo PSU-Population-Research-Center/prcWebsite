@@ -12,13 +12,23 @@ root/
 │   │   ├── 2020s/
 │   │   │   ├── tableName.csv
 │   │   │   ├── tableName.csv
+
+│   ├── xlsTable/
+│   │   ├── 2000s/
+│   │   │   ├── tableName.csv
+│   │   │   ├── tableName.csv
+│   │   ├── 2020s/
+│   │   │   ├── tableName.csv
+│   │   │   ├── tableName.csv
+
+
 │   ├── pdfTable/
 │   │   ├── 2000s/
-│   │   │   ├── pdocName.csv
-│   │   │   ├── pdocName.csv
+│   │   │   ├── pdocName.pdf
+│   │   │   ├── pdocName.pdf
 │   │   ├── 2020s/
-│   │   │   ├── pdocName.csv
-│   │   │   ├── pdocName.csv
+│   │   │   ├── pdocName.pdf
+│   │   │   ├── pdocName.pdf
 │
 ├── estimate/
 │   ├── csvTable/
@@ -30,11 +40,11 @@ root/
 │   │   │   ├── tableName.csv
 │   ├── pdfTable/
 │   │   ├── 2000s/
-│   │   │   ├── pdocName.csv
-│   │   │   ├── pdocName.csv
+│   │   │   ├── pdocName.pdf
+│   │   │   ├── pdocName.pdf
 │   │   ├── 2020s/
-│   │   │   ├── pdocName.csv
-│   │   │   ├── pdocName.csv
+│   │   │   ├── pdocName.pdf
+│   │   │   ├── pdocName.pdf
 │
 ├── projects/
 │   ├── csvTable/
@@ -46,9 +56,9 @@ root/
 │   │   │   ├── tableName.csv
 │   ├── pdfTable/
 │   │   ├── 2000s/
-│   │   │   ├── pdocName.csv
-│   │   │   ├── pdocName.csv
+│   │   │   ├── pdocName.pdf
+│   │   │   ├── pdocName.pdf
 │   │   ├── 2020s/
-│   │   │   ├── pdocName.csv
-│   │   │   ├── pdocName.csv
+│   │   │   ├── pdocName.pdf
+│   │   │   ├── pdocName.pdf
 ```

@@ -40,9 +40,6 @@ SocialKit
 https://www.youtube.com/watch?v=dB1GkMJCBrc
 
 
-Am I missing something of there is. Home price are going down a long with intrest rate. Isn't the opposite suppose to happen? For canada it seems like the effect of immigrant intake between 2021 and 2023 on housing price is settling which reduce the demand
-
-
 File Download Category,
 
 Programs
@@ -55,3 +52,5 @@ Data Types
     Data Table
     PDF Report
     Mapping Data
+
+

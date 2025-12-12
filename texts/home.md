@@ -1,6 +1,8 @@
 # Home Page
 The home page is organized into several horizontal panels. The current content and design are placeholders and should be replaced with the final text before publishing. Please update each section with the appropriate content for the live site.
 
+<hr>
+
 <div style="display: flex; align-items: top; gap: 7px;">
 
 

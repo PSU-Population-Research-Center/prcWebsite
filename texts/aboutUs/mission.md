@@ -2,6 +2,8 @@
 
 This page uses the `frame-inner-Txt Only.png` template. The content below will appear in the main section of the template, while the top, side, and bottom areas are automatically filled from other sections.
 
+<hr>
+
 <div style="display: flex; align-items: top; gap: 7px;">
 
 <div style="flex: 1;">
